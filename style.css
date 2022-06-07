@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://media.gettyimages.com/photos/space-music-abstract-background-with-fantastic-space-and-musical-picture-id1151839982?b=1&k=20&m=1151839982&s=170667a&w=0&h=rvLBZyers-MUkUXLLDToKg2z4KTHuf6C6DwLPsHm0Gs=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+}
+#div1{
+float: left;
+}
+#div2{
+    float: right;
+}
+#h1{
+background-color: purple;
+border-radius: 5px;
+box-shadow: 5px 5px 30px crimson;
+color: white;
+}
+#btn1{
+    background-color: magenta;
+    font-size: 20px;
+    font-family: 'Satisfy', cursive;
+    border-radius: 5px;
+}
